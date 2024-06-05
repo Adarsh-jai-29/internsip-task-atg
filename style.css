@@ -283,7 +283,8 @@ header{
   margin-left: 16px; 
 }
 .join-btn{
-  
+  display: inline-block;
+  text-decoration: none;
   border: 1px solid #FFFFFF;
   background-color: #00000000;
   width: 100px;
